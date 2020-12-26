@@ -1,4 +1,6 @@
-### Hi there, I'm John a software engineer @ictlife
+### Hi there, I'm John
+
+### I'm a Software Engineer
 
 ### Connect with me:
 
