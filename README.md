@@ -10,9 +10,6 @@
 [<img align="left" alt="JohnMaina | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-[![John Maina's github stats](https://github-readme-stats.vercel.app/api?username=jqhnmaina&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 <!-- [website]: https://JohnMaina.com -->
