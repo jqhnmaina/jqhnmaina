@@ -1,6 +1,6 @@
 ### Hi there, I'm John
 
- I'm a Software Engineer working @Siglar Carbon based in Nairobi
+ I'm a Software Engineer working @SiglarCarbon based in Nairobi
 
 ### Connect with me:
 
